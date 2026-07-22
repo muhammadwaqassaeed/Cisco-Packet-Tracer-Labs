@@ -26,3 +26,6 @@ The following command was used to verify directly connected Cisco devices:
 
 ```bash
 show cdp neighbors
+
+## Topology
+![Network Topology](topology.png)
