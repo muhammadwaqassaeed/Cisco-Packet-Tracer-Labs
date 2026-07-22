@@ -28,4 +28,5 @@ The following command was used to verify directly connected Cisco devices:
 show cdp neighbors
 
 ## Topology
-![Network Topology](topology.png)
+
+![Network Topology](./topology.png)
